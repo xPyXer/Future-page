@@ -1,4 +1,3 @@
-# future-page
 # Responsive page made with HTML and CSS !
 
 ![1](https://user-images.githubusercontent.com/88254638/156938254-2400005b-42ba-493d-bbd7-ee4dd4d4939a.jpeg)
